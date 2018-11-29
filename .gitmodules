@@ -1,0 +1,3 @@
+[submodule "ts-hifive-boilerplate"]
+	path = ts-hifive-boilerplate
+	url = https://github.com/mpppk/ts-hifive-boilerplate
